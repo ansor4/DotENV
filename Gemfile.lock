@@ -1,0 +1,14 @@
+GEM
+  specs:
+    plist (3.4.0)
+    sublime_syntax_convertor (0.1.0)
+      plist
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sublime_syntax_convertor
+
+BUNDLED WITH
+   1.17.2

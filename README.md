@@ -1,6 +1,9 @@
-# DotENV
+# 
+
+# DotENV (with sublime-syntax)
 SublimeText Syntax Highlighting support for Environment (.env) Files
 
+Forked from [DotEnv](https://github.com/zaynali53/DotENV) and uses [SublimeSyntaxConvertor] (https://github.com/aziz/SublimeSyntaxConvertor)
 
 ### Links
 *[PackageControl.io](https://packagecontrol.io/packages/DotENV)*
